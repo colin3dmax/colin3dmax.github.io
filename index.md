@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cross2d
+title: Hello World!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
