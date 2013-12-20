@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello Colin3dmax!
+title: Cross2d
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
