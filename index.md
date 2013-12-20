@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: Hello Colin3dmax!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
